@@ -1,0 +1,7 @@
+
+baixar videos:
+
+função internas
+Closures
+
+
